@@ -9,7 +9,7 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import gr.publicsoft.springbootcrud.model.Supplier;
 
-@CrossOrigin(origins = "http://localhost:9002")
+@CrossOrigin(origins = "http://localhost:9000")
 @RepositoryRestResource
 public interface SupplierRepository extends JpaRepository<Supplier, Long> {
 	
