@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: georgia
+Build-Jdk: 11.0.14
+Implementation-Title: springbootcrud-webapp
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: gr.publicsoft.springbootcrud
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-crud/springbootcrud-webapp
+Created-By: Maven Integration for Eclipse
+
